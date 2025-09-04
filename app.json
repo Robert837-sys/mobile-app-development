@@ -4,8 +4,13 @@
     "slug": "my_first_app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/coffee-icon(2).png",
     "scheme": "myfirstapp",
+    "splash": {
+      "image": "./assets/images/coffee-splash(2).png",
+      "backgroundColor": "#000000",
+      "resizeMode": "cover"
+    },
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
